@@ -1,0 +1,16 @@
+.bg-purple {
+	background-color: #FF339F;
+}
+
+.purple {
+	color: #57d157;
+}
+
+.btn-purple {
+	background-color: #FF339F;
+	border-color:  #57d157;
+	color: white;
+}
+body{
+	background-color:lightgrey;
+}
